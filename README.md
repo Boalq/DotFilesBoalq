@@ -1,6 +1,7 @@
 Yo this is my first Github Repo?
 
-So basically you copy all these shit in to the ~/.config/(name of the directory) \n
+So basically you copy all these shit in to the ~/.config/(name of the directory)
+
 voila thats it.
 
 Its just an clean setup without doing toooo much.
