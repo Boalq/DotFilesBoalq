@@ -1,6 +1,7 @@
 Yo this is my first Github Repo?
 
 So basically you copy all these shit in to the ~/.config/(name of the directory)
+
 voila thats it.
 Its just an clean setup without doing toooo much.
 It works very good on EndavourOS cuz you know I use it so it hast to be good(hopefully), but will probably fine on any arch(I use arch btw) distro. 
