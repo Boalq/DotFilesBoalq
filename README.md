@@ -1,4 +1,4 @@
-Yo this is my firs Github Repo?
+Yo this is my first Github Repo?
 
 So basically you copy all these shit in to the ~/.config/(name of the directory)
 voila thats it.
